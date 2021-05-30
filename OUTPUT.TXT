@@ -1,0 +1,5043 @@
+
+MAIN PARAMETERS:
+================
+
+LPP               =      225.71 (M)
+B                 =       32.24 (M)
+D                 =       18.88 (M)
+TCWL              =       12.77 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.400
+CBD               =        0.500
+CM                =        0.940
+CWP               =        0.600
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.74
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.11
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.525
+LPP/D             =       11.96
+KB/T              =        0.58
+KM/B              =        0.44
+KG/D              =        0.73
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25377.
+LIGHT SHIP        =    12923.
+----------------------------------
+DISPLACEMENT      =    38299.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2701.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.208
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7660.
+RT                990.
+THRUST           1163.
+TORQUE           2119.
+PD              14661.
+PB              13928.
+PINST           16386.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.90
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.198
+VA                  7.84
+THD                 0.149
+J                   0.992
+KT                  0.291
+KQ*10               0.672
+ETA0                0.685
+ETAR                1.006
+ETAH                1.062
+ETAD                0.731
+DP/T                0.618
+AEA0MIN             0.262
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       14.17
+KG                =       13.77
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      224.43 (M)
+B                 =       32.06 (M)
+D                 =       18.70 (M)
+TCWL              =       12.56 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.410
+CBD               =        0.511
+CM                =        0.941
+CWP               =        0.607
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.69
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.14
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.553
+LPP/D             =       12.00
+KB/T              =        0.58
+KM/B              =        0.44
+KG/D              =        0.73
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25344.
+LIGHT SHIP        =    12818.
+----------------------------------
+DISPLACEMENT      =    38162.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2669.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.208
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7618.
+RT                982.
+THRUST           1154.
+TORQUE           2095.
+PD              14485.
+PB              13760.
+PINST           16189.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.88
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.202
+VA                  7.80
+THD                 0.149
+J                   0.990
+KT                  0.292
+KQ*10               0.672
+ETA0                0.684
+ETAR                1.007
+ETAH                1.066
+ETAD                0.734
+DP/T                0.627
+AEA0MIN             0.265
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       14.06
+KG                =       13.66
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      223.18 (M)
+B                 =       31.88 (M)
+D                 =       18.53 (M)
+TCWL              =       12.35 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.420
+CBD               =        0.521
+CM                =        0.942
+CWP               =        0.613
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.65
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.18
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.581
+LPP/D             =       12.05
+KB/T              =        0.58
+KM/B              =        0.44
+KG/D              =        0.73
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25314.
+LIGHT SHIP        =    12716.
+----------------------------------
+DISPLACEMENT      =    38030.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2638.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.209
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7579.
+RT                975.
+THRUST           1145.
+TORQUE           2072.
+PD              14319.
+PB              13603.
+PINST           16003.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.86
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.205
+VA                  7.77
+THD                 0.149
+J                   0.988
+KT                  0.293
+KQ*10               0.673
+ETA0                0.683
+ETAR                1.008
+ETAH                1.071
+ETAD                0.737
+DP/T                0.636
+AEA0MIN             0.267
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.97
+KG                =       13.57
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      221.98 (M)
+B                 =       31.71 (M)
+D                 =       18.36 (M)
+TCWL              =       12.16 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.430
+CBD               =        0.532
+CM                =        0.943
+CWP               =        0.620
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.61
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.21
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.609
+LPP/D             =       12.09
+KB/T              =        0.57
+KM/B              =        0.44
+KG/D              =        0.73
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25285.
+LIGHT SHIP        =    12617.
+----------------------------------
+DISPLACEMENT      =    37902.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2610.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.209
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7543.
+RT                968.
+THRUST           1137.
+TORQUE           2051.
+PD              14163.
+PB              13455.
+PINST           15829.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.84
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.209
+VA                  7.73
+THD                 0.149
+J                   0.986
+KT                  0.293
+KQ*10               0.675
+ETA0                0.682
+ETAR                1.008
+ETAH                1.076
+ETAD                0.740
+DP/T                0.645
+AEA0MIN             0.269
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.87
+KG                =       13.47
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      220.80 (M)
+B                 =       31.54 (M)
+D                 =       18.21 (M)
+TCWL              =       11.97 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.440
+CBD               =        0.542
+CM                =        0.944
+CWP               =        0.627
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.57
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.24
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.636
+LPP/D             =       12.13
+KB/T              =        0.57
+KM/B              =        0.44
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25258.
+LIGHT SHIP        =    12521.
+----------------------------------
+DISPLACEMENT      =    37779.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2583.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.210
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7510.
+RT                962.
+THRUST           1130.
+TORQUE           2032.
+PD              14016.
+PB              13315.
+PINST           15665.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.82
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.212
+VA                  7.70
+THD                 0.149
+J                   0.984
+KT                  0.294
+KQ*10               0.676
+ETA0                0.682
+ETAR                1.009
+ETAH                1.080
+ETAD                0.743
+DP/T                0.654
+AEA0MIN             0.271
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.78
+KG                =       13.38
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      219.66 (M)
+B                 =       31.38 (M)
+D                 =       18.06 (M)
+TCWL              =       11.79 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.450
+CBD               =        0.552
+CM                =        0.945
+CWP               =        0.633
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.53
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.27
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.662
+LPP/D             =       12.16
+KB/T              =        0.57
+KM/B              =        0.44
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25233.
+LIGHT SHIP        =    12428.
+----------------------------------
+DISPLACEMENT      =    37660.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2557.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.211
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7478.
+RT                956.
+THRUST           1123.
+TORQUE           2013.
+PD              13878.
+PB              13184.
+PINST           15511.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.81
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.216
+VA                  7.67
+THD                 0.149
+J                   0.982
+KT                  0.295
+KQ*10               0.677
+ETA0                0.681
+ETAR                1.010
+ETAH                1.085
+ETAD                0.746
+DP/T                0.662
+AEA0MIN             0.274
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.70
+KG                =       13.30
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      218.54 (M)
+B                 =       31.22 (M)
+D                 =       17.91 (M)
+TCWL              =       11.61 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.460
+CBD               =        0.563
+CM                =        0.946
+CWP               =        0.640
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.49
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.30
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.688
+LPP/D             =       12.20
+KB/T              =        0.57
+KM/B              =        0.44
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25209.
+LIGHT SHIP        =    12337.
+----------------------------------
+DISPLACEMENT      =    37546.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2534.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.211
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7450.
+RT                950.
+THRUST           1117.
+TORQUE           1996.
+PD              13750.
+PB              13062.
+PINST           15367.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.79
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.219
+VA                  7.63
+THD                 0.149
+J                   0.980
+KT                  0.296
+KQ*10               0.678
+ETA0                0.680
+ETAR                1.011
+ETAH                1.090
+ETAD                0.749
+DP/T                0.671
+AEA0MIN             0.276
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.62
+KG                =       13.22
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      217.46 (M)
+B                 =       31.07 (M)
+D                 =       17.78 (M)
+TCWL              =       11.45 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.470
+CBD               =        0.573
+CM                =        0.947
+CWP               =        0.647
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.45
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.33
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.714
+LPP/D             =       12.23
+KB/T              =        0.57
+KM/B              =        0.44
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25187.
+LIGHT SHIP        =    12249.
+----------------------------------
+DISPLACEMENT      =    37436.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2511.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.212
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7423.
+RT                945.
+THRUST           1111.
+TORQUE           1980.
+PD              13630.
+PB              12949.
+PINST           15234.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.78
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.223
+VA                  7.60
+THD                 0.149
+J                   0.977
+KT                  0.296
+KQ*10               0.679
+ETA0                0.679
+ETAR                1.011
+ETAH                1.094
+ETAD                0.751
+DP/T                0.679
+AEA0MIN             0.278
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.54
+KG                =       13.14
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      216.40 (M)
+B                 =       30.91 (M)
+D                 =       17.64 (M)
+TCWL              =       11.29 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.480
+CBD               =        0.583
+CM                =        0.948
+CWP               =        0.653
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.42
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.36
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.739
+LPP/D             =       12.27
+KB/T              =        0.57
+KM/B              =        0.44
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25166.
+LIGHT SHIP        =    12164.
+----------------------------------
+DISPLACEMENT      =    37330.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2491.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.212
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7398.
+RT                941.
+THRUST           1106.
+TORQUE           1965.
+PD              13520.
+PB              12844.
+PINST           15110.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.76
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.226
+VA                  7.57
+THD                 0.150
+J                   0.975
+KT                  0.297
+KQ*10               0.680
+ETA0                0.678
+ETAR                1.012
+ETAH                1.099
+ETAD                0.754
+DP/T                0.688
+AEA0MIN             0.281
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.46
+KG                =       13.06
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      215.37 (M)
+B                 =       30.77 (M)
+D                 =       17.52 (M)
+TCWL              =       11.13 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.490
+CBD               =        0.592
+CM                =        0.949
+CWP               =        0.660
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.39
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.38
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.764
+LPP/D             =       12.30
+KB/T              =        0.57
+KM/B              =        0.44
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25148.
+LIGHT SHIP        =    12082.
+----------------------------------
+DISPLACEMENT      =    37230.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2473.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.213
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7375.
+RT                937.
+THRUST           1102.
+TORQUE           1952.
+PD              13420.
+PB              12749.
+PINST           14998.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.75
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.229
+VA                  7.53
+THD                 0.150
+J                   0.972
+KT                  0.298
+KQ*10               0.681
+ETA0                0.677
+ETAR                1.013
+ETAH                1.103
+ETAD                0.756
+DP/T                0.696
+AEA0MIN             0.283
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.39
+KG                =       12.99
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      213.38 (M)
+B                 =       30.48 (M)
+D                 =       17.54 (M)
+TCWL              =       11.05 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.500
+CBD               =        0.603
+CM                =        0.950
+CWP               =        0.675
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.39
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.49
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.758
+LPP/D             =       12.17
+KB/T              =        0.56
+KM/B              =        0.44
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25133.
+LIGHT SHIP        =    11893.
+----------------------------------
+DISPLACEMENT      =    37026.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2458.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.214
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7357.
+RT                935.
+THRUST           1100.
+TORQUE           1942.
+PD              13340.
+PB              12673.
+PINST           14910.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.74
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.233
+VA                  7.50
+THD                 0.150
+J                   0.969
+KT                  0.299
+KQ*10               0.683
+ETA0                0.676
+ETAR                1.014
+ETAH                1.108
+ETAD                0.759
+DP/T                0.700
+AEA0MIN             0.285
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.42
+KG                =       13.02
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      210.61 (M)
+B                 =       30.09 (M)
+D                 =       17.69 (M)
+TCWL              =       11.04 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.510
+CBD               =        0.613
+CM                =        0.951
+CWP               =        0.698
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.42
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.65
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.726
+LPP/D             =       11.91
+KB/T              =        0.56
+KM/B              =        0.45
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25123.
+LIGHT SHIP        =    11623.
+----------------------------------
+DISPLACEMENT      =    36747.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2448.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.215
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7345.
+RT                934.
+THRUST           1100.
+TORQUE           1936.
+PD              13287.
+PB              12622.
+PINST           14850.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.73
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.238
+VA                  7.45
+THD                 0.150
+J                   0.964
+KT                  0.301
+KQ*10               0.685
+ETA0                0.674
+ETAR                1.014
+ETAH                1.114
+ETAD                0.762
+DP/T                0.700
+AEA0MIN             0.285
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.55
+KG                =       13.15
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      207.95 (M)
+B                 =       29.71 (M)
+D                 =       17.84 (M)
+TCWL              =       11.03 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.520
+CBD               =        0.624
+CM                =        0.952
+CWP               =        0.721
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.46
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.81
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.694
+LPP/D             =       11.66
+KB/T              =        0.56
+KM/B              =        0.46
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25117.
+LIGHT SHIP        =    11372.
+----------------------------------
+DISPLACEMENT      =    36489.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2442.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.216
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7339.
+RT                935.
+THRUST           1101.
+TORQUE           1932.
+PD              13252.
+PB              12589.
+PINST           14811.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.72
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.242
+VA                  7.41
+THD                 0.151
+J                   0.960
+KT                  0.302
+KQ*10               0.687
+ETA0                0.672
+ETAR                1.015
+ETAH                1.120
+ETAD                0.764
+DP/T                0.700
+AEA0MIN             0.286
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.67
+KG                =       13.27
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      205.38 (M)
+B                 =       29.34 (M)
+D                 =       17.99 (M)
+TCWL              =       11.02 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.530
+CBD               =        0.634
+CM                =        0.953
+CWP               =        0.746
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.49
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.97
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.663
+LPP/D             =       11.41
+KB/T              =        0.56
+KM/B              =        0.47
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25114.
+LIGHT SHIP        =    11137.
+----------------------------------
+DISPLACEMENT      =    36251.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2439.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.218
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7339.
+RT                937.
+THRUST           1104.
+TORQUE           1931.
+PD              13237.
+PB              12575.
+PINST           14795.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.71
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.246
+VA                  7.37
+THD                 0.151
+J                   0.955
+KT                  0.304
+KQ*10               0.689
+ETA0                0.670
+ETAR                1.016
+ETAH                1.126
+ETAD                0.766
+DP/T                0.700
+AEA0MIN             0.288
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.79
+KG                =       13.39
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      202.90 (M)
+B                 =       28.99 (M)
+D                 =       18.15 (M)
+TCWL              =       11.01 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.540
+CBD               =        0.644
+CM                =        0.954
+CWP               =        0.772
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.52
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.13
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.632
+LPP/D             =       11.18
+KB/T              =        0.56
+KM/B              =        0.48
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25115.
+LIGHT SHIP        =    10917.
+----------------------------------
+DISPLACEMENT      =    36033.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2440.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.219
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7345.
+RT                940.
+THRUST           1108.
+TORQUE           1934.
+PD              13243.
+PB              12581.
+PINST           14801.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.71
+REV(UPM)           60.0
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.251
+VA                  7.32
+THD                 0.151
+J                   0.950
+KT                  0.306
+KQ*10               0.692
+ETA0                0.668
+ETAR                1.016
+ETAH                1.132
+ETAD                0.769
+DP/T                0.700
+AEA0MIN             0.289
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.91
+KG                =       13.51
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      200.97 (M)
+B                 =       28.71 (M)
+D                 =       18.22 (M)
+TCWL              =       10.98 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.550
+CBD               =        0.654
+CM                =        0.955
+CWP               =        0.793
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.54
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.25
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.616
+LPP/D             =       11.03
+KB/T              =        0.56
+KM/B              =        0.49
+KG/D              =        0.74
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25121.
+LIGHT SHIP        =    10757.
+----------------------------------
+DISPLACEMENT      =    35878.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2446.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.220
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7349.
+RT                943.
+THRUST           1112.
+TORQUE           1929.
+PD              13272.
+PB              12608.
+PINST           14833.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.68
+REV(UPM)           60.3
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.255
+VA                  7.28
+THD                 0.152
+J                   0.943
+KT                  0.308
+KQ*10               0.695
+ETA0                0.665
+ETAR                1.017
+ETAH                1.138
+ETAD                0.770
+DP/T                0.700
+AEA0MIN             0.293
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.97
+KG                =       13.57
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      199.79 (M)
+B                 =       28.54 (M)
+D                 =       18.18 (M)
+TCWL              =       10.89 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.560
+CBD               =        0.663
+CM                =        0.956
+CWP               =        0.805
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.52
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.30
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.622
+LPP/D             =       10.99
+KB/T              =        0.56
+KM/B              =        0.49
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25130.
+LIGHT SHIP        =    10674.
+----------------------------------
+DISPLACEMENT      =    35804.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2454.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.221
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7347.
+RT                946.
+THRUST           1117.
+TORQUE           1912.
+PD              13320.
+PB              12654.
+PINST           14887.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.62
+REV(UPM)           61.1
+AEA0                0.300
+P/DP                1.500
+
+WAKE                0.259
+VA                  7.24
+THD                 0.153
+J                   0.933
+KT                  0.311
+KQ*10               0.699
+ETA0                0.660
+ETAR                1.018
+ETAH                1.144
+ETAD                0.769
+DP/T                0.700
+AEA0MIN             0.300
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.95
+KG                =       13.55
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      197.38 (M)
+B                 =       28.20 (M)
+D                 =       18.36 (M)
+TCWL              =       10.90 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.570
+CBD               =        0.673
+CM                =        0.957
+CWP               =        0.835
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.56
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.46
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.587
+LPP/D             =       10.75
+KB/T              =        0.56
+KM/B              =        0.50
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25144.
+LIGHT SHIP        =    10477.
+----------------------------------
+DISPLACEMENT      =    35620.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2469.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.222
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7367.
+RT                953.
+THRUST           1126.
+TORQUE           1927.
+PD              13397.
+PB              12727.
+PINST           14973.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.63
+REV(UPM)           61.0
+AEA0                0.302
+P/DP                1.500
+
+WAKE                0.264
+VA                  7.20
+THD                 0.153
+J                   0.927
+KT                  0.313
+KQ*10               0.702
+ETA0                0.658
+ETAR                1.019
+ETAH                1.150
+ETAD                0.771
+DP/T                0.700
+AEA0MIN             0.302
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       14.08
+KG                =       13.68
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      196.76 (M)
+B                 =       28.11 (M)
+D                 =       18.24 (M)
+TCWL              =       10.78 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.580
+CBD               =        0.682
+CM                =        0.958
+CWP               =        0.842
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.53
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.46
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.608
+LPP/D             =       10.79
+KB/T              =        0.55
+KM/B              =        0.50
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25164.
+LIGHT SHIP        =    10454.
+----------------------------------
+DISPLACEMENT      =    35618.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2488.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.222
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7361.
+RT                957.
+THRUST           1132.
+TORQUE           1909.
+PD              13504.
+PB              12829.
+PINST           15093.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.55
+REV(UPM)           62.1
+AEA0                0.311
+P/DP                1.500
+
+WAKE                0.268
+VA                  7.15
+THD                 0.154
+J                   0.916
+KT                  0.318
+KQ*10               0.710
+ETA0                0.652
+ETAR                1.019
+ETAH                1.155
+ETAD                0.767
+DP/T                0.700
+AEA0MIN             0.311
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       14.01
+KG                =       13.61
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      196.20 (M)
+B                 =       28.03 (M)
+D                 =       18.11 (M)
+TCWL              =       10.66 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.590
+CBD               =        0.690
+CM                =        0.959
+CWP               =        0.847
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.50
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.45
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.629
+LPP/D             =       10.83
+KB/T              =        0.55
+KM/B              =        0.50
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25188.
+LIGHT SHIP        =    10441.
+----------------------------------
+DISPLACEMENT      =    35628.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2512.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.223
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7356.
+RT                961.
+THRUST           1138.
+TORQUE           1894.
+PD              13635.
+PB              12953.
+PINST           15239.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.46
+REV(UPM)           63.2
+AEA0                0.322
+P/DP                1.500
+
+WAKE                0.272
+VA                  7.11
+THD                 0.156
+J                   0.904
+KT                  0.322
+KQ*10               0.718
+ETA0                0.646
+ETAR                1.019
+ETAH                1.161
+ETAD                0.763
+DP/T                0.700
+AEA0MIN             0.322
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.93
+KG                =       13.53
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      195.88 (M)
+B                 =       27.98 (M)
+D                 =       17.95 (M)
+TCWL              =       10.53 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.600
+CBD               =        0.699
+CM                =        0.960
+CWP               =        0.850
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.46
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.42
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.658
+LPP/D             =       10.91
+KB/T              =        0.55
+KM/B              =        0.49
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25216.
+LIGHT SHIP        =    10452.
+----------------------------------
+DISPLACEMENT      =    35669.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2541.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.223
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7348.
+RT                966.
+THRUST           1145.
+TORQUE           1877.
+PD              13791.
+PB              13101.
+PINST           15413.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.37
+REV(UPM)           64.5
+AEA0                0.334
+P/DP                1.500
+
+WAKE                0.277
+VA                  7.07
+THD                 0.157
+J                   0.892
+KT                  0.327
+KQ*10               0.728
+ETA0                0.638
+ETAR                1.019
+ETAH                1.166
+ETAD                0.758
+DP/T                0.700
+AEA0MIN             0.334
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.82
+KG                =       13.42
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      195.67 (M)
+B                 =       27.95 (M)
+D                 =       17.78 (M)
+TCWL              =       10.39 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.610
+CBD               =        0.707
+CM                =        0.965
+CWP               =        0.852
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.41
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.38
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.689
+LPP/D             =       11.01
+KB/T              =        0.55
+KM/B              =        0.49
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25249.
+LIGHT SHIP        =    10477.
+----------------------------------
+DISPLACEMENT      =    35727.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2574.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.223
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7347.
+RT                971.
+THRUST           1152.
+TORQUE           1861.
+PD              13970.
+PB              13272.
+PINST           15614.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.28
+REV(UPM)           65.9
+AEA0                0.347
+P/DP                1.500
+
+WAKE                0.280
+VA                  7.04
+THD                 0.158
+J                   0.880
+KT                  0.332
+KQ*10               0.737
+ETA0                0.631
+ETAR                1.019
+ETAH                1.170
+ETAD                0.752
+DP/T                0.700
+AEA0MIN             0.347
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.70
+KG                =       13.30
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      195.35 (M)
+B                 =       27.91 (M)
+D                 =       17.63 (M)
+TCWL              =       10.28 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.620
+CBD               =        0.715
+CM                =        0.981
+CWP               =        0.858
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.38
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.36
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.716
+LPP/D             =       11.08
+KB/T              =        0.54
+KM/B              =        0.49
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25284.
+LIGHT SHIP        =    10492.
+----------------------------------
+DISPLACEMENT      =    35776.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2609.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.223
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7370.
+RT                975.
+THRUST           1158.
+TORQUE           1847.
+PD              14159.
+PB              13452.
+PINST           15825.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.19
+REV(UPM)           67.2
+AEA0                0.358
+P/DP                1.500
+
+WAKE                0.280
+VA                  7.04
+THD                 0.158
+J                   0.873
+KT                  0.336
+KQ*10               0.744
+ETA0                0.626
+ETAR                1.018
+ETAH                1.169
+ETAD                0.746
+DP/T                0.700
+AEA0MIN             0.358
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.60
+KG                =       13.20
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      195.12 (M)
+B                 =       27.87 (M)
+D                 =       17.47 (M)
+TCWL              =       10.15 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.630
+CBD               =        0.723
+CM                =        0.998
+CWP               =        0.863
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.34
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.32
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        2.746
+LPP/D             =       11.17
+KB/T              =        0.54
+KM/B              =        0.48
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25320.
+LIGHT SHIP        =    10517.
+----------------------------------
+DISPLACEMENT      =    35837.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2645.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.223
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7393.
+RT                979.
+THRUST           1163.
+TORQUE           1832.
+PD              14353.
+PB              13635.
+PINST           16041.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               7.11
+REV(UPM)           68.7
+AEA0                0.371
+P/DP                1.500
+
+WAKE                0.280
+VA                  7.04
+THD                 0.158
+J                   0.866
+KT                  0.339
+KQ*10               0.752
+ETA0                0.621
+ETAR                1.017
+ETAH                1.168
+ETAD                0.739
+DP/T                0.700
+AEA0MIN             0.371
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       13.49
+KG                =       13.09
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      201.06 (M)
+B                 =       28.72 (M)
+D                 =       16.33 (M)
+TCWL              =        9.57 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.640
+CBD               =        0.729
+CM                =        0.964
+CWP               =        0.777
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.09
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.76
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.31
+KB/T              =        0.55
+KM/B              =        0.44
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25305.
+LIGHT SHIP        =    11146.
+----------------------------------
+DISPLACEMENT      =    36451.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2630.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.220
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7253.
+RT                967.
+THRUST           1157.
+TORQUE           1348.
+PD              14271.
+PB              13558.
+PINST           15950.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.70
+REV(UPM)           92.7
+AEA0                0.431
+P/DP                1.054
+
+WAKE                0.294
+VA                  6.90
+THD                 0.164
+J                   0.666
+KT                  0.234
+KQ*10               0.407
+ETA0                0.610
+ETAR                1.016
+ETAH                1.184
+ETAD                0.734
+DP/T                0.700
+AEA0MIN             0.425
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.70
+KG                =       12.30
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      199.92 (M)
+B                 =       28.56 (M)
+D                 =       16.33 (M)
+TCWL              =        9.52 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.650
+CBD               =        0.738
+CM                =        0.965
+CWP               =        0.789
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.11
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.81
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.25
+KB/T              =        0.55
+KM/B              =        0.44
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25328.
+LIGHT SHIP        =    11069.
+----------------------------------
+DISPLACEMENT      =    36397.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2653.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.221
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7257.
+RT                974.
+THRUST           1167.
+TORQUE           1337.
+PD              14397.
+PB              13677.
+PINST           16091.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.66
+REV(UPM)           94.3
+AEA0                0.435
+P/DP                1.042
+
+WAKE                0.298
+VA                  6.86
+THD                 0.165
+J                   0.654
+KT                  0.233
+KQ*10               0.401
+ETA0                0.606
+ETAR                1.017
+ETAH                1.190
+ETAD                0.733
+DP/T                0.700
+AEA0MIN             0.435
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.70
+KG                =       12.30
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      198.82 (M)
+B                 =       28.40 (M)
+D                 =       16.32 (M)
+TCWL              =        9.47 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.660
+CBD               =        0.746
+CM                =        0.966
+CWP               =        0.801
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.12
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.85
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.18
+KB/T              =        0.54
+KM/B              =        0.45
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25353.
+LIGHT SHIP        =    10998.
+----------------------------------
+DISPLACEMENT      =    36350.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2677.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.221
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7262.
+RT                982.
+THRUST           1178.
+TORQUE           1324.
+PD              14530.
+PB              13804.
+PINST           16239.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.63
+REV(UPM)           96.1
+AEA0                0.445
+P/DP                1.027
+
+WAKE                0.303
+VA                  6.82
+THD                 0.167
+J                   0.642
+KT                  0.232
+KQ*10               0.393
+ETA0                0.602
+ETAR                1.017
+ETAH                1.195
+ETAD                0.732
+DP/T                0.700
+AEA0MIN             0.445
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.70
+KG                =       12.30
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      197.75 (M)
+B                 =       28.25 (M)
+D                 =       16.31 (M)
+TCWL              =        9.42 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.670
+CBD               =        0.755
+CM                =        0.967
+CWP               =        0.813
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.14
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.89
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.12
+KB/T              =        0.54
+KM/B              =        0.45
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25378.
+LIGHT SHIP        =    10930.
+----------------------------------
+DISPLACEMENT      =    36309.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2703.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.222
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7268.
+RT                990.
+THRUST           1189.
+TORQUE           1313.
+PD              14670.
+PB              13936.
+PINST           16396.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.59
+REV(UPM)           97.9
+AEA0                0.455
+P/DP                1.014
+
+WAKE                0.307
+VA                  6.77
+THD                 0.168
+J                   0.630
+KT                  0.231
+KQ*10               0.386
+ETA0                0.599
+ETAR                1.017
+ETAH                1.200
+ETAD                0.731
+DP/T                0.700
+AEA0MIN             0.455
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.70
+KG                =       12.30
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      196.71 (M)
+B                 =       28.10 (M)
+D                 =       16.30 (M)
+TCWL              =        9.37 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.680
+CBD               =        0.763
+CM                =        0.968
+CWP               =        0.825
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.16
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.94
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.07
+KB/T              =        0.54
+KM/B              =        0.45
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25405.
+LIGHT SHIP        =    10867.
+----------------------------------
+DISPLACEMENT      =    36272.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2730.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.222
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7275.
+RT                998.
+THRUST           1201.
+TORQUE           1307.
+PD              14816.
+PB              14075.
+PINST           16559.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.56
+REV(UPM)           99.3
+AEA0                0.465
+P/DP                1.006
+
+WAKE                0.311
+VA                  6.73
+THD                 0.169
+J                   0.620
+KT                  0.231
+KQ*10               0.384
+ETA0                0.595
+ETAR                1.017
+ETAH                1.206
+ETAD                0.729
+DP/T                0.700
+AEA0MIN             0.465
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.70
+KG                =       12.30
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      195.70 (M)
+B                 =       27.96 (M)
+D                 =       16.29 (M)
+TCWL              =        9.32 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.690
+CBD               =        0.771
+CM                =        0.969
+CWP               =        0.838
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.17
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.97
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.01
+KB/T              =        0.54
+KM/B              =        0.45
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25433.
+LIGHT SHIP        =    10808.
+----------------------------------
+DISPLACEMENT      =    36241.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2758.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.223
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7283.
+RT               1006.
+THRUST           1213.
+TORQUE           1299.
+PD              14969.
+PB              14220.
+PINST           16730.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.52
+REV(UPM)          101.0
+AEA0                0.476
+P/DP                0.995
+
+WAKE                0.315
+VA                  6.69
+THD                 0.171
+J                   0.609
+KT                  0.230
+KQ*10               0.378
+ETA0                0.591
+ETAR                1.017
+ETAH                1.211
+ETAD                0.728
+DP/T                0.700
+AEA0MIN             0.476
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.70
+KG                =       12.30
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      194.72 (M)
+B                 =       27.82 (M)
+D                 =       16.29 (M)
+TCWL              =        9.27 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.700
+CBD               =        0.779
+CM                =        0.970
+CWP               =        0.850
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.19
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.01
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       11.96
+KB/T              =        0.54
+KM/B              =        0.46
+KG/D              =        0.75
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25463.
+LIGHT SHIP        =    10753.
+----------------------------------
+DISPLACEMENT      =    36216.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2788.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.224
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7292.
+RT               1014.
+THRUST           1226.
+TORQUE           1289.
+PD              15130.
+PB              14374.
+PINST           16910.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.49
+REV(UPM)          102.9
+AEA0                0.487
+P/DP                0.981
+
+WAKE                0.320
+VA                  6.65
+THD                 0.173
+J                   0.598
+KT                  0.229
+KQ*10               0.371
+ETA0                0.587
+ETAR                1.017
+ETAH                1.216
+ETAD                0.726
+DP/T                0.700
+AEA0MIN             0.487
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.69
+KG                =       12.29
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      193.77 (M)
+B                 =       27.68 (M)
+D                 =       16.28 (M)
+TCWL              =        9.23 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.710
+CBD               =        0.788
+CM                =        0.971
+CWP               =        0.862
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.21
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.05
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       11.91
+KB/T              =        0.54
+KM/B              =        0.46
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25495.
+LIGHT SHIP        =    10702.
+----------------------------------
+DISPLACEMENT      =    36197.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2820.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.224
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7302.
+RT               1023.
+THRUST           1239.
+TORQUE           1284.
+PD              15303.
+PB              14538.
+PINST           17103.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.46
+REV(UPM)          104.4
+AEA0                0.498
+P/DP                0.972
+
+WAKE                0.324
+VA                  6.61
+THD                 0.174
+J                   0.588
+KT                  0.229
+KQ*10               0.368
+ETA0                0.583
+ETAR                1.017
+ETAH                1.221
+ETAD                0.724
+DP/T                0.700
+AEA0MIN             0.498
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.69
+KG                =       12.29
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      192.85 (M)
+B                 =       27.55 (M)
+D                 =       16.27 (M)
+TCWL              =        9.18 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.720
+CBD               =        0.796
+CM                =        0.972
+CWP               =        0.874
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.22
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.08
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       11.86
+KB/T              =        0.54
+KM/B              =        0.46
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25530.
+LIGHT SHIP        =    10657.
+----------------------------------
+DISPLACEMENT      =    36187.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2854.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.225
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7313.
+RT               1032.
+THRUST           1253.
+TORQUE           1278.
+PD              15491.
+PB              14717.
+PINST           17314.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.43
+REV(UPM)          106.3
+AEA0                0.509
+P/DP                0.960
+
+WAKE                0.328
+VA                  6.57
+THD                 0.176
+J                   0.577
+KT                  0.228
+KQ*10               0.362
+ETA0                0.579
+ETAR                1.017
+ETAH                1.226
+ETAD                0.722
+DP/T                0.700
+AEA0MIN             0.509
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.68
+KG                =       12.28
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      191.96 (M)
+B                 =       27.42 (M)
+D                 =       16.25 (M)
+TCWL              =        9.14 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.730
+CBD               =        0.804
+CM                =        0.973
+CWP               =        0.886
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.23
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.11
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       11.81
+KB/T              =        0.54
+KM/B              =        0.46
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25568.
+LIGHT SHIP        =    10618.
+----------------------------------
+DISPLACEMENT      =    36186.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2893.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.225
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7325.
+RT               1042.
+THRUST           1268.
+TORQUE           1275.
+PD              15701.
+PB              14916.
+PINST           17548.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.40
+REV(UPM)          108.0
+AEA0                0.522
+P/DP                0.950
+
+WAKE                0.332
+VA                  6.53
+THD                 0.178
+J                   0.567
+KT                  0.228
+KQ*10               0.358
+ETA0                0.574
+ETAR                1.017
+ETAH                1.231
+ETAD                0.719
+DP/T                0.700
+AEA0MIN             0.522
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.68
+KG                =       12.28
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      191.11 (M)
+B                 =       27.30 (M)
+D                 =       16.24 (M)
+TCWL              =        9.10 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.740
+CBD               =        0.811
+CM                =        0.974
+CWP               =        0.898
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.25
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.14
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       11.77
+KB/T              =        0.53
+KM/B              =        0.46
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25612.
+LIGHT SHIP        =    10585.
+----------------------------------
+DISPLACEMENT      =    36197.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     2937.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.226
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7339.
+RT               1054.
+THRUST           1286.
+TORQUE           1273.
+PD              15938.
+PB              15141.
+PINST           17813.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.37
+REV(UPM)          109.7
+AEA0                0.534
+P/DP                0.941
+
+WAKE                0.336
+VA                  6.48
+THD                 0.180
+J                   0.557
+KT                  0.228
+KQ*10               0.354
+ETA0                0.570
+ETAR                1.017
+ETAH                1.235
+ETAD                0.716
+DP/T                0.700
+AEA0MIN             0.534
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.67
+KG                =       12.27
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####    ERGEBNIS GUELTIG!      ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      190.33 (M)
+B                 =       27.19 (M)
+D                 =       16.03 (M)
+TCWL              =        9.06 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.750
+CBD               =        0.817
+CM                =        0.975
+CWP               =        0.900
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.21
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.97
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       11.87
+KB/T              =        0.53
+KM/B              =        0.46
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25675.
+LIGHT SHIP        =    10563.
+----------------------------------
+DISPLACEMENT      =    36238.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    67810.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     3000.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.226
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7325.
+RT               1059.
+THRUST           1297.
+TORQUE           1159.
+PD              16281.
+PB              15467.
+PINST           18197.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.30
+REV(UPM)          122.8
+AEA0                0.594
+P/DP                0.819
+
+WAKE                0.342
+VA                  6.43
+THD                 0.183
+J                   0.499
+KT                  0.191
+KQ*10               0.271
+ETA0                0.560
+ETAR                1.014
+ETAH                1.241
+ETAD                0.705
+DP/T                0.695
+AEA0MIN             0.551
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.53
+KG                =       12.13
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####  KEINE LOESUNG GEFUNDEN!  ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      189.35 (M)
+B                 =       27.05 (M)
+D                 =       15.74 (M)
+TCWL              =        9.02 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.760
+CBD               =        0.823
+CM                =        0.976
+CWP               =        0.900
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.15
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.73
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.03
+KB/T              =        0.53
+KM/B              =        0.46
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25675.
+LIGHT SHIP        =    10480.
+----------------------------------
+DISPLACEMENT      =    36155.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    66341.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     3000.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.227
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7289.
+RT               1063.
+THRUST           1304.
+TORQUE           1203.
+PD              16281.
+PB              15467.
+PINST           18197.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.31
+REV(UPM)          118.2
+AEA0                0.616
+P/DP                0.863
+
+WAKE                0.345
+VA                  6.40
+THD                 0.185
+J                   0.515
+KT                  0.207
+KQ*10               0.302
+ETA0                0.561
+ETAR                1.014
+ETAH                1.243
+ETAD                0.707
+DP/T                0.700
+AEA0MIN             0.555
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.35
+KG                =       11.95
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####  KEINE LOESUNG GEFUNDEN!  ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      188.39 (M)
+B                 =       26.91 (M)
+D                 =       15.44 (M)
+TCWL              =        8.97 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.770
+CBD               =        0.828
+CM                =        0.983
+CWP               =        0.900
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.09
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        6.47
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.20
+KB/T              =        0.53
+KM/B              =        0.45
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25675.
+LIGHT SHIP        =    10400.
+----------------------------------
+DISPLACEMENT      =    36076.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    64815.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     3000.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.227
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7261.
+RT               1065.
+THRUST           1310.
+TORQUE           1252.
+PD              16281.
+PB              15467.
+PINST           18197.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.28
+REV(UPM)          114.0
+AEA0                0.563
+P/DP                0.922
+
+WAKE                0.347
+VA                  6.38
+THD                 0.187
+J                   0.535
+KT                  0.228
+KQ*10               0.346
+ETA0                0.559
+ETAR                1.017
+ETAH                1.245
+ETAD                0.709
+DP/T                0.700
+AEA0MIN             0.563
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.16
+KG                =       11.76
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####  KEINE LOESUNG GEFUNDEN!  ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      187.54 (M)
+B                 =       26.79 (M)
+D                 =       16.23 (M)
+TCWL              =        8.93 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.780
+CBD               =        0.843
+CM                =        0.997
+CWP               =        0.895
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.31
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.30
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       11.55
+KB/T              =        0.52
+KM/B              =        0.47
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25675.
+LIGHT SHIP        =    10376.
+----------------------------------
+DISPLACEMENT      =    36051.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     3000.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.228
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7233.
+RT               1063.
+THRUST           1307.
+TORQUE           1244.
+PD              16281.
+PB              15467.
+PINST           18197.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.25
+REV(UPM)          114.7
+AEA0                0.568
+P/DP                0.922
+
+WAKE                0.346
+VA                  6.39
+THD                 0.186
+J                   0.534
+KT                  0.228
+KQ*10               0.348
+ETA0                0.559
+ETAR                1.017
+ETAH                1.245
+ETAD                0.707
+DP/T                0.700
+AEA0MIN             0.568
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.68
+KG                =       12.28
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####  KEINE LOESUNG GEFUNDEN!  ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      186.64 (M)
+B                 =       26.66 (M)
+D                 =       16.24 (M)
+TCWL              =        8.89 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.790
+CBD               =        0.851
+CM                =        0.998
+CWP               =        0.886
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        4.33
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        7.35
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       11.49
+KB/T              =        0.52
+KM/B              =        0.48
+KG/D              =        0.76
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25675.
+LIGHT SHIP        =    10314.
+----------------------------------
+DISPLACEMENT      =    35990.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    68754.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     3000.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.228
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7174.
+RT               1060.
+THRUST           1308.
+TORQUE           1230.
+PD              16281.
+PB              15467.
+PINST           18197.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.22
+REV(UPM)          116.0
+AEA0                0.576
+P/DP                0.916
+
+WAKE                0.351
+VA                  6.35
+THD                 0.189
+J                   0.528
+KT                  0.228
+KQ*10               0.344
+ETA0                0.556
+ETAR                1.017
+ETAH                1.248
+ETAD                0.705
+DP/T                0.700
+AEA0MIN             0.576
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       12.69
+KG                =       12.29
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####  KEINE LOESUNG GEFUNDEN!  ####
+###################################
+
+MAIN PARAMETERS:
+================
+
+LPP               =      185.64 (M)
+B                 =       26.52 (M)
+D                 =       14.60 (M)
+TCWL              =        8.84 (M)
+
+FORM PARAMETERS:
+================
+
+CB                =        0.800
+CBD               =        0.846
+CM                =        0.998
+CWP               =        0.900
+
+TEMP              =       15.000
+SALINITY          =        3.500
+RHO               =        1.026
+RHOAH             =        1.030
+
+FREEBOARD:
+================
+
+FREEBOARD (RULE)  =        3.92
+KENNZAHL BUG      =         0
+FREEBOARD (ACT.)  =        5.76
+
+RATIOS:
+=======
+
+LPP/B             =        7.000
+B/T               =        3.000
+LPP/D             =       12.71
+KB/T              =        0.52
+KM/B              =        0.44
+KG/D              =        0.77
+
+WEIGHT:
+=======
+
+DEADWEIGHT        =    25675.
+LIGHT SHIP        =    10191.
+----------------------------------
+DISPLACEMENT      =    35866.
+
+VOLUME:
+=======
+
+UD-VOLUME (MIN)   =    68754.
+UD-VOLUME (CALC)  =    60802.
+
+DEADWEIGHT:
+===========
+
+MASS CONT. UD     =    13148.
+MASS CONT. OD     =     9224.
+
+MASS CONT.        =    22371.
+MASS FUEL         =     3000.
+MASS PROV.        =      304.
+
+LIGHT SHIP:
+==========
+
+
+POWERING:
+=========
+
+VSKN               19.00
+VSMS                9.77
+FN                  0.229
+MCR                 0.850
+SEAMARG             1.000
+ETAM                0.950
+SURF             7178.
+RT               1076.
+THRUST           1309.
+TORQUE           1218.
+PD              16281.
+PB              15467.
+PINST           18197.
+
+PROPELLER
+=========
+ANZPROP             1.
+ANZBLADES           5.
+DPROP               6.19
+REV(UPM)          117.2
+AEA0                0.583
+P/DP                0.911
+
+WAKE                0.355
+VA                  6.30
+THD                 0.193
+J                   0.522
+KT                  0.228
+KQ*10               0.343
+ETA0                0.552
+ETAR                1.017
+ETAH                1.252
+ETAD                0.703
+DP/T                0.700
+AEA0MIN             0.583
+
+CENTRES OF GRAVITY:
+===================
+
+NOCH ZU BESCHREIBEN
+
+STABILITY:
+===========
+
+KM                =       11.65
+KG                =       11.25
+GM                =        0.40
+GMMIN             =        0.40
+
+
+###################################
+####  KEINE LOESUNG GEFUNDEN!  ####
+###################################

@@ -1,0 +1,451 @@
+c        1         2         3         4          5         6         7
+c234567890123456789012345678901234567890121345678901234567890123456789012
+c	Model  4.2
+c	SS  2018
+c	Hauserbeit Schiffsentwurf: Optimierung 1806 TEU
+c	Md Mustafizur Rahman - 5010033
+c	Diese Version ist auf die aufgabestellung aus Modul 3.2 angepasst 
+
+      program Tiefgang
+c     Auswirkungen einer Tiefgangsbeschraenkung
+
+c   alles ist, wenn nicht anders definiert, vom Typ REAL
+      implicit real (a-z)
+c   Definitionen der abweichenden Variablentypen
+      integer ifbbug
+      integer isteu
+      integer iout,iout2
+      
+c  Entwurfssystem 050618
+c  Konstante Werte
+      SALIN  = 3.5
+      TEMP   = 15.
+      rho    = 1.025
+      ah=1.004
+      rhoah=rho*ah
+c  Vorgaben
+c    Ladungmenge
+      ncont=1806.
+c    Geschwindigkeit und Aktionsweite
+      vskn = 19.
+      vsms = vskn*0.5144
+      aktio = 18500.
+
+c  Konstante Werte
+c  Geometrie
+c    Containeranteil unter Deck und an Deck
+      cud = 0.52
+      cad = 1.-cud
+c      cred14=0.76
+c  Massen der Container
+      mud = 14.
+      mad = 14.
+      mconud = cud*ncont*mud
+      mconad = cad*ncont*mad
+c	  cred14	  
+      mpayl  = mconud+mconad
+      
+c  minimalen Unterdecksvolumen
+c    Containervolumen
+      vcont=20*8*8.5*0.3048**3.
+c    LR-Netto Volumen
+      vlrne = cud*ncont*vcont
+c    LR-Brutto +10 Prozent Zuschlag
+      vlrbr = vlrne * 1.1
+c    Faktor LR zu Unterdecksvolumen
+      clrud = 140.54/191.954 * 28.1/32.33 * 17.64/19.4
+c    Unterdecksvolumen
+      vudmin = vlrbr/clrud
+c  Massen
+c  Ladung und Vorraete
+c    Konstante fuer mfuel
+      sfoc = 166.
+      cfuel=aktio/vskn*sfoc*1.e-6
+      cfures=1.2
+c    restliche Vorraete
+      mvorr = 304.
+c  Schiffsgewicht
+      cmres = 1.04
+      mstres= 250.
+      cmst  = 0.093
+      cma   = 0.3
+      cae   = 0.350
+c  Freibord
+      cfrb = 0.025
+      
+c  Leistung
+c    Widerstand nach Holtrop
+c    Vorgabewerte
+      trim   = 0.
+      LCB    = 0.
+      FABT   = 0.08
+      FHB    = 0.7
+      CSTERN = 10.
+      FSAP   = 0.06
+      EIPK2  = 1.4
+      SALIN  = 3.5
+      TEMP   = 15.
+      ASPIE  = 0.
+      XKS    = 150.E-6
+      DTUN   = 1.5
+      CBTO   = 0.005
+c   Propeller Konstante
+      z      = 5.
+      anzp   = 1.
+      isteu  = 2.
+c    Wirkungsgrade
+      etam = 0.95
+c    Reserven
+      mcr=.85
+      smarg=1.15
+      pfakt=1./mcr*smarg
+      
+c    Stabilität
+c    KG Wert
+      ckglsw = 0.55
+      ckgvor = 0.5
+      hdb = 1.76
+      hsuell = 1.5
+      ckgud = 0.5
+      ckgod = 0.5
+      nconod = 2.
+      
+c    GMMIN
+      gmmin = 0.40
+      
+c    oeffnen der Ausgabedatei gesamte Ausgabe
+      iout = 12
+      open (iout, file='output.txt', status='UNKNOWN')
+c    oeffnen der Ausgabedatei für Parameterwerte
+      iout2 = 14
+      open (iout2, file='output2.txt', status='UNKNOWN')
+
+c   fuer Parameterstudie t 
+      tvon = 9.5
+      tbis = 15.
+      tdel = 0.1
+      do 500 t=tvon,tbis,tdel
+      
+c  System
+c    Unbekannte
+      unknowns depl  (20000.,1000.,5000.,60000.)
+      unknowns dw    (11000.,1000.,3000.,450000.)
+      unknowns lpp   (150., 10., 24.,  300.)
+      unknowns b     (22., 5., 10., 35.)
+c     unknowns t     (7., 2., 5., 18.)
+      unknowns d     (10.5,2.,5.,25.)
+      unknowns freebd(2.,1.,0.,10.)
+      unknowns mlsw  (5000., 500., 3000.,25000.)
+      unknowns msteel(3000.,500.,1000.,25000.)
+      unknowns mma   (1000.,500.,500.,5000.)
+      unknowns mae   (1000.,500.,500.,5000.)
+      unknowns mfuel (1000.,500.,500.,3200.)
+      unknowns cb    (0.30, 0.05, 0.6, 1.)
+      unknowns cm    (0.90, 0.05, 0.9, 0.998)
+      unknowns cwp   (0.7,  0.05, 0.5, 0.90)
+      unknowns cbd   (0.50,0.05,0.5,0.95)
+      unknowns rt    (500., 100.,200., 2000.)
+      unknowns pb    (5000., 500., 2000., 30000.)
+c    Propeller
+      unknowns thrust (1000.,200.,1.,3000.)
+      unknowns torque (500.,200.,1.,10000.)
+      unknowns va (vsms,0.1*vsms,0.5*vsms,1.5*vsms)
+      unknowns aea0 (0.7,0.1,0.3,1.05)
+      unknowns pzd (1.,0.3,0.5,1.5)
+      unknowns rev (1.5,0.5,0.5,10.)
+      unknowns dp (9.,3.,1.,15.)
+c    Stabilitaet
+      unknowns kg  (10.,1.,3.,20.)
+      unknowns km  (10.,1.,3.,20.)
+
+      write unknowns
+      
+c    Gleichungen
+c    Archimedes
+      lpp*b*t*cb*rhoah = depl
+c    Seitenhöhe und Unterdecksvolumen
+      lpp*b*d*cbd .ge. vudmin
+
+c    Form
+c     Freibord
+      d-t .ge. freebd
+      freebd = FREBD(lpp+1.5,d,(-1.*cb),0.15*LPP,3.,0.,0.,0.,
+     $               0.20*LPP,2.8,
+     $               0.,0.,0.,0.,0.,0.,0.,2,1,t,ifbbug)
+C     Hydrostatik
+c    cb wird durch RT geregelt
+c    moeglich grossen AM -> LR
+      cm .ge. 0.9 + 0.1*cb
+c    Wasserlinienvoelligkeit -> Stabilitaet
+      cwp .ge.(1.+2.*cb)/3.
+      cbd= cb + 0.35*(d-t)/t*(1.-cb)
+c    Massen
+      depl = dw+mlsw
+      dw   = mpayl + mfuel + mvorr
+      mfuel= pb*cfuel*cfures
+      mlsw = (msteel + mma + mae)*cmres
+      msteel = starum(cmst,lpp,b,t,d,cbd)+mstres
+c   beruecksichtige Leistungsreserven
+      mma = cma*(pb*pfakt)**0.89
+      mae = cae*lpp*b
+c    Antriebsleistung Betriebspunkt
+c    Widerstand nach Holtrop
+      rt = HOLTRS(lpp*1.03,b,t,trim,cb,cm,cwp,lcb,
+     &                 FABT,FHB,CSTERN,FSAP,EIPK2,
+     &                 vsms,SALIN,TEMP,ASPIE,XKS,DTUN,CBTO)
+c  --------------------------------------------------------------
+c   Propeller 
+c   Schub Schiff
+      thrust = rt/(1.-fthd(lpp,b,t,cb,cm,dp,isteu))
+c   Schub Propeller
+      thrust = rho*rev**2*dp**4*FKTB(AEA0,PZD,DP,VA,REV,Z)*anzp
+c   Drehmoment Propeller
+      torque = rho*rev**2*dp**5*FKQB(AEA0,PZD,DP,VA,REV,Z)*anzp
+c   Antriebsleistung
+      pb = torque*6.2832*rev/
+     $fetar(cb,cm,lcb,aea0,fwake(lpp,b,t,cb,cm,dp,isteu),isteu)/etam
+c   Anstroemgeschwindigkeit
+      va = vsms*(1-fwake(lpp,b,t,cb,cm,dp,isteu))
+c   Mindestflaechenverhaeltnis
+      aea0 .ge. FAEA0M(thrust,t,dp,z,anzp,salin,temp)
+c   max. Propellerdurchmesser
+      dp .le. 0.7*t
+c   Steigung begrenzen
+      va/(rev*dp) .le. pzd
+c   Drehzahl begrenzen
+      rev*60. .ge. 60.
+c  --------------------------------------------------------------
+c    Stabiltaet
+c    Schwerpunkt KG -> Seitenhoehe
+      kg = ( ckglsw*d*mlsw
+     $     + (ckgvor*(d-hdb)+hdb)*(mfuel+mvorr)
+     $     + (ckgud*(d+hsuell-hdb)+hdb)*mconud
+     $     + (ckgod*(nconod*8.5*0.3048)+d+2.0)*mconad)
+     $     / depl
+      
+c    Formstabilitaet KM
+      km = t*(0.9-0.3*cm-0.1*cb)+(3.*cwp-1.)*b*b/(24.*cb*t)
+c    GM
+      km -kg .ge. gmmin
+       
+c    Ungleichungen
+      lpp/b .ge. 5.
+      7.0 .ge. lpp/b
+      b/t .le. 3.
+      lpp/d .le. 15.
+      lpp/d .ge. 10.
+c    Zielfunktion
+      minimize pb
+      solve
+      
+c  Ausgabe der Werte fuer Parametervariation
+      if (cqcerr) then
+         istok=0.
+      else
+         istok=1.
+      endif
+      write (iout2,9500) lpp,t,b,cb,pb,depl,istok
+c  Nachbearbeitung / Ausgabe
+
+      write (iout,*)
+      write (iout,9000) 'Main Parameters:'
+      write (iout,9000) '================'
+      write (iout,*)
+      write (iout,9002) 'Lpp               =',lpp,' (m)'
+      write (iout,9002) 'B                 =',b,' (m)'
+      write (iout,9002) 'D                 =',d,' (m)'
+      write (iout,9002) 'Tcwl              =',t,' (m)'
+      write (iout,*)
+      write (iout,9000) 'Form Parameters:'
+      write (iout,9000) '================'
+      write (iout,*)
+      write (iout,9003) 'CB                =',cb
+      write (iout,9003) 'CBD               =',cbd 
+      write (iout,9003) 'CM                =',cm 
+      write (iout,9003) 'CWP               =',cwp 
+      write (iout,*)
+      write (iout,9003) 'Temp              =',temp
+      write (iout,9003) 'Salinity          =',salin
+      write (iout,9003) 'Rho               =',rho
+      write (iout,9003) 'RHOAH             =',rhoah 
+      write (iout,*)
+      write (iout,9000) 'Freeboard:'
+      write (iout,9000) '================'
+      write (iout,*)
+      write (iout,9002) 'Freeboard (rule)  =',freebd
+      write (iout,9100) 'Kennzahl Bug      =',ifbbug
+      write (iout,9002) 'Freeboard (act.)  =',d-t
+      write (iout,*)
+      write (iout,9000) 'Ratios:'
+      write (iout,9000) '======='
+      write (iout,*)
+      write (iout,9003) 'Lpp/B             =',lpp/b
+      write (iout,9003) 'B/T               =',b/t
+      write (iout,9002) 'Lpp/D             =',lpp/d
+      write (iout,9002) 'KB/T              =',(0.9-0.3*cm-0.1*cb)
+      write (iout,9002) 'KM/B              =',km/b
+      write (iout,9002) 'KG/D              =',kg/d
+      write (iout,*)
+      write (iout,9000) 'Weight:'
+      write (iout,9000) '======='
+      write (iout,*)
+      write (iout,9000) 'Deadweight        =',dw
+      write (iout,9000) 'Light Ship        =',mlsw
+      write (iout,9000) '----------------------------------'
+      write (iout,9000) 'Displacement      =',depl
+      write (iout,*)
+      write (iout,9000) 'Volume:'
+      write (iout,9000) '======='
+      write (iout,*)
+      write (iout,9000) 'UD-Volume (min)   =',vudmin
+      write (iout,9000) 'UD-Volume (calc)  =',lpp*b*d*cbd
+      write (iout,*)
+      write (iout,9000) 'Deadweight:'
+      write (iout,9000) '==========='
+      write (iout,*)
+      write (iout,9000) 'Mass Cont. UD     =',mconud
+      write (iout,9000) 'Mass Cont. OD     =',mconad
+      write (iout,*)
+      write (iout,9000) 'Mass Cont.        =',mpayl
+      write (iout,9000) 'Mass Fuel         =',mfuel
+      write (iout,9000) 'Mass Prov.        =',mvorr
+      write (iout,*)
+      write (iout,9000) 'Light Ship:'
+      write (iout,9000) '=========='
+      write (iout,*)
+      write (iout,*)
+      write (iout,9000) 'Powering:'
+      write (iout,9000) '========='
+      write (iout,*)
+      fn = vsms/sqrt(9.81*lpp) 
+      surf=HOLTSR(1.03*lpp,b,t,cb,cm,cwp,fabt)
+      wake =fwake(lpp,b,t,cb,cm,dp,isteu)
+      thd =fthd(lpp,b,t,cb,cm,dp,isteu)
+      etar=fetar(cb,cm,lcb,aea0,wake,isteu)
+      etah=(1-thd)/(1-wake)
+      ac=va/rev/dp
+      eta0=thrust*va/(torque*6.2832*rev)
+      etad=eta0*etar*etah
+      pd=pb/etam
+      pinst=pb*pfakt
+      kt=FKTB(AEA0,PZD,DP,VA,REV,Z)
+      kq=10.*FKQB(AEA0,PZD,DP,VA,REV,Z)
+      aemin=FAEA0M(thrust,t,dp,z,anzp,salin,temp)
+      write (iout,9002) 'VSKN        ',vskn
+      write (iout,9002) 'VSMS        ',vsms
+      write (iout,9003) 'Fn          ',fn
+      write (iout,9003) 'MCR         ',mcr
+      write (iout,9003) 'Seamarg     ',smarg
+      write (iout,9003) 'etam        ',etam
+      write (iout,9000) 'Surf        ',surf
+      write (iout,9000) 'RT          ',rt
+      write (iout,9000) 'Thrust      ',thrust
+      write (iout,9000) 'Torque      ',torque
+      write (iout,9000) 'PD          ',pd
+      write (iout,9000) 'PB          ',pb
+      write (iout,9000) 'Pinst       ',pinst
+      write (iout,*)
+      write (iout,9003) 'Propeller'
+      write (iout,9003) '========='
+      write (iout,9000) 'AnzProp     ',anzp
+      write (iout,9000) 'AnzBlades   ',z
+      write (iout,9002) 'DProp       ',dp
+      write (iout,9001) 'rev(upm)    ',rev*60
+      write (iout,9003) 'AeA0        ',aea0
+      write (iout,9003) 'P/DP        ',pzd
+      write (iout,*)
+      write (iout,9003) 'wake        ',wake
+      write (iout,9002) 'VA          ',va
+      write (iout,9003) 'thd         ',thd
+      write (iout,9003) 'J           ',ac
+      write (iout,9003) 'kt          ',kt
+      write (iout,9003) 'kq*10       ',kq
+      write (iout,9003) 'eta0        ',eta0
+      write (iout,9003) 'etar        ',etar
+      write (iout,9003) 'etah        ',etah
+      write (iout,9003) 'etad        ',etad
+      write (iout,9003) 'DP/T        ',dp/t
+      write (iout,9003) 'AeA0min     ',aemin
+      write (iout,*)
+      write (iout,9000) 'Centres of Gravity:'
+      write (iout,9000) '==================='
+      write (iout,*)
+      
+     
+      write (iout,9000) 'Stability:'
+      write (iout,9000) '==========='
+      write (iout,*)
+      write (iout,9002) 'KM                =',km
+      write (iout,9002) 'KG                =',kg
+      write (iout,9002) 'GM                =',km-kg
+      write (iout,9002) 'GMMIN             =',gmmin
+      write(iout,*) 
+      write(iout,*)     
+      if (cqcerr) then
+            write(iout,9000)  '###################################'
+            write(iout,9000)  '####  Keine Loesung gefunden!  ####'
+            write(iout,9000)  '###################################'
+      else
+            write(iout,9000)  '###################################'
+            write(iout,9000)  '####    Ergebnis gueltig!      ####'
+            write(iout,9000)  '###################################'
+      endif
+      
+c   Ende der Schleife
+500   continue
+      
+      close (iout)
+      close (iout2)
+      
+      
+9000  format (a,f10.0,a)
+9001  format (a,1x,f10.1,a)
+9002  format (a,2x,f10.2,a)
+9003  format (a,3x,f10.3,a)
+9100  format (a,i10)
+9500  format (10f10.3)
+      end
+c  weitere Funktionen und Programmteilec   Propeller Funktionen
+c     Nachstromziffer
+      function fwake(rlpp,b,t,cb,cm,dp,isteu)
+      if (isteu.eq.1) then
+       fwake=0.75*cb-0.24
+      elseif (isteu.eq.2) then
+       fwake=0.5*cb/cm*1.6/(1+dp/t)*16/(10+rlpp/b)
+      else
+       stop 'fwake'
+      endif
+      return
+      end
+c     Sogziffer
+      function fthd(rlpp,b,t,cb,cm,dp,isteu)
+      if (isteu.eq.1) then
+       fthd=0.5*cb-0.15
+      elseif (isteu.eq.2) then
+       fthd=0.001979*rlpp/(b*(1.-cb/cm)) 
+     $      + 1.0585*b/rlpp
+     $      - 0.00524 - 0.1418*dp*dp/(b*t) 
+      else
+       stop 'fthd'
+      endif
+      return
+      end
+c     Guetegrad Anordnung
+      function fetar(cb,cm,rlcb,aea0,w,isteu)
+      if (isteu.eq.1) then
+       fetar=1.+0.125*(w-0.1)
+      elseif (isteu.eq.2) then
+       fetar = 0.9922-0.05908*aea0+0.07424*((cb/cm)-0.0225*rlcb)
+      else
+       stop 'fetar'
+      endif
+      return
+      end
+c     Mindestflaechenverhaeltnis
+      FUNCTION FAEA0M(THRUST,DRAFT,DIAM,ANZB,ANZP,SALIN,TEMP)
+      PDIFF = 102.0 + (1.1*DRAFT - 0.30 -DIAM/2.)*9.81*DICHTE(SALIN)
+     &        - DAMPFD(TEMP)
+      FAEA0M = THRUST/ANZP*(1.3+0.3*ANZB)/PDIFF/DIAM/DIAM
+      RETURN
+      END
+      
